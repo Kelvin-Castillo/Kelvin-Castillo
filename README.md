@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kelvin! <br/><a href="https://github.com/joshmadakor1">Aspiring IT Help Desk Specialist</a> <a href="https://www.linkedin.com/in/joshmadakor/"></a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hi, I'm Kelvin!(NOT FINISHED YET) <br/><a href="https://github.com/joshmadakor1">Aspiring IT Help Desk Specialist</a> <a href="https://www.linkedin.com/in/joshmadakor/"></a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
