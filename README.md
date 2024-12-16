@@ -4,20 +4,14 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Active Directory</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Virtual Private Networks (VPNs)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Network File and Permissions</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakor1/Algorithms-Practice)
 
+- <b>Microsoft Azure</b>
+ - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Network File Shares and Permissions](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Building Intuition for DNS](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
