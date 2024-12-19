@@ -6,9 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakor1/Algorithms-Practice)
-
-- <b>Microsoft Azure</b>
- - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Microsoft Azure </b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Network File Shares and Permissions](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Building Intuition for DNS](https://github.com/joshmadakor1/Algorithms-Practice)
