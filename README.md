@@ -9,8 +9,8 @@
 - <b>Microsoft Azure </b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kelvin-Castillo/-Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
-  - [Network File Shares and Permissions](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Building Intuition for DNS](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Network File Shares and Permissions](https://github.com/Kelvin-Castillo/Network-File-Shares-and-Permissions/blob/main/README.md)
+  - [Building Intuition for DNS](https://github.com/Kelvin-Castillo/-Building-Intuition-for-DNS/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
