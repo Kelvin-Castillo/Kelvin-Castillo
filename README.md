@@ -15,9 +15,11 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="www.linkedin.com/in/kelvin-castillo-77b41129b" />][linkedin]
+<h2>🤳Connect with me:</h2>
+
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src=www.linkedin.com/in/kelvin-castillo-77b41129b" />][linkedin]
 
 
 
 [linkedin]: www.linkedin.com/in/kelvin-castillo-77b41129b
-
