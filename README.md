@@ -15,4 +15,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-https://www.linkedin.com/favicon.ico
+www.linkedin.com/in/kelvin-castillo-77b41129b
