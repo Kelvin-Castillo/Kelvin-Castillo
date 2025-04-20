@@ -12,14 +12,7 @@
   - [Network File Shares and Permissions](https://github.com/Kelvin-Castillo/Network-File-Shares-and-Permissions/blob/main/README.md)
   - [Building Intuition for DNS](https://github.com/Kelvin-Castillo/-Building-Intuition-for-DNS/blob/main/README.md)
 
-<h2> 🤳 Connect with me:</h2>
-
 
 <h2>🤳Connect with me:</h2>
 
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src=www.linkedin.com/in/kelvin-castillo-77b41129b" />][linkedin]
-
-
-
-[linkedin]: www.linkedin.com/in/kelvin-castillo-77b41129b
+https://www.linkedin.com/favicon.ico
